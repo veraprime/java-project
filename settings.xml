@@ -89,7 +89,7 @@ under the License.
         <activeByDefault>true</activeByDefault>
       </activation>
       <properties>
-        <sonar.host.url>http://172.31.60.49:9000</sonar.host.url>
+        <sonar.host.url>http://172.32.60.49:9000</sonar.host.url>
       </properties>
     </profile>
     <!--End SonarQube/Sonar Profile-->
